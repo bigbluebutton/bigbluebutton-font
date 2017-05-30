@@ -1,0 +1,88 @@
+var glyphs = {
+    'logout': 'e900',
+    'application': 'e901',
+    'more': 'e902',
+    'promote': 'e903',
+    'video-off': 'e904',
+    'user': 'e905',
+    'up-arrow': 'e906',
+    'undecided': 'e907',
+    'time': 'e908',
+    'sad': 'e909',
+    'right-arrow': 'e90a',
+    'presentation': 'e90b',
+    'listen': 'e90c',
+    'left-arrow': 'e90d',
+    'happy': 'e90e',
+    'hand': 'e90f',
+    'group-chat': 'e910',
+    'confused': 'e911',
+    'close': 'e912',
+    'clear-status': 'e913',
+    'circle': 'e914',
+    'substract': 'e915',
+    'circle-close': 'e916',
+    'add': 'e917',
+    'check': 'e918',
+    'chat': 'e919',
+    'audio-on': 'e91a',
+    'audio-off': 'e91b',
+    'line-tool': 'e91c',
+    'circle-tool': 'e91d',
+    'triangle-tool': 'e91e',
+    'rectangle-tool': 'e91f',
+    'text-tool': 'e920',
+    'plus': 'e921',
+    'fit-to-width': 'e922',
+    'applause': 'e923',
+    'undo': 'e924',
+    'pen-tool': 'e925',
+    'lock': 'e926',
+    'polling': 'e927',
+    'desktop': 'e928',
+    'fit-to-screen': 'e929',
+    'fullscreen': 'e92a',
+    'settings': 'e92b',
+    'thumbs-down': 'e92c',
+    'thumbs-up': 'e92d',
+    'file': 'e92e',
+    'upload': 'e92f',
+    'video': 'e930',
+    'unmute': 'e931',
+    'mute': 'e932',
+	'about': 'e933',
+	'send': 'e934',
+	'exit-fullscreen': 'e935'
+};
+
+$(document).ready(
+    function () {
+        renderFont();
+        calculateGlyphs();
+        $('#liveDemoSize').change(function () {
+            $('.fs0').css('font-size', $('#liveDemoSize').val() + 'px');
+        })
+    }
+);
+
+function renderFont() {
+    for (name in glyphs) {
+        renderGlyph(name, glyphs[name]);
+    }
+}
+
+function renderGlyph(name, index) {
+    var glyphDiv = '<div class="glyph fs1"><div class="clearfix bshadow0 pbs"><span class="icon-icon-bbb-applause"></span><span class="mls"> icon-bbb-' + name + '</span></div>';
+    glyphDiv += '<fieldset class="fs0 size1of1 clearfix hidden-false"><input type="text" readonly value="' + index + '" class="unit size1of2" />';
+    glyphDiv += '<input type="text" maxlength="1" readonly value="&#x' + index + ';" class="unitRight size1of2 talign-right icon-bbb-' + name + '" />';
+    glyphDiv += '</fieldset>';
+    glyphDiv += '<div class="fs0 bshadow0 clearfix hidden-true">';
+    glyphDiv += '<span class="unit pvs fgc1">liga: </span>';
+    glyphDiv += '<input type="text" readonly value="" class="liga unitRight" /></div></div>';
+
+    $('#bbb-container').append(glyphDiv);
+}
+
+function calculateGlyphs() {
+    $('#glyphs-number').html('(Glyphs:&nbsp;' + Object.keys(glyphs).length + ')');
+}
