@@ -52,7 +52,20 @@ var glyphs = {
     'mute': 'e932',
 	'about': 'e933',
 	'send': 'e934',
-	'exit-fullscreen': 'e935'
+	'exit-fullscreen': 'e935',
+	'delete': 'e936',
+	'unmute_filled': 'e937',
+	'mute_filled': 'e938',
+	'listen_filled': 'e939',
+	'template_upload': 'e93a',
+	'template_download': 'e93b',
+	'save_notes': 'e93c',
+	'multi_whiteboard': 'e93d',
+	'whiteboard': 'e93e',
+	'romms': 'e93f',
+	'unlock': 'e940',
+	'record': 'e941',
+	'network': 'e942'
 };
 
 $(document).ready(
