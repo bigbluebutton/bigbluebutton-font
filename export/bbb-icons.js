@@ -65,7 +65,8 @@ var glyphs = {
 	'romms': 'e93f',
 	'unlock': 'e940',
 	'record': 'e941',
-	'network': 'e942'
+	'network': 'e942',
+	'redo': 'e943'
 };
 
 $(document).ready(
