@@ -66,7 +66,9 @@ var glyphs = {
 	'unlock': 'e940',
 	'record': 'e941',
 	'network': 'e942',
-	'redo': 'e943'
+	'redo': 'e943',
+	'thumbs_down_filled': 'e944',
+	'thumbs_up_filled': 'e945'
 };
 
 $(document).ready(
