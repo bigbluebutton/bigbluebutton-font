@@ -69,7 +69,13 @@ var glyphs = {
 	'redo': 'e943',
 	'thumbs_down_filled': 'e944',
 	'thumbs_up_filled': 'e945',
-	'checkmark': 'e946'
+	'checkmark': 'e946',
+	'speak_louder': 'e947',
+	'help': 'e948',
+	'refresh': 'e949',
+	'copy': 'e94a',
+	'shortcuts': 'e94b',
+	'warning': 'e94c'
 };
 
 $(document).ready(
