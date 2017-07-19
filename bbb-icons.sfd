@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1482757104
-ModificationTime: 1500378765
+ModificationTime: 1500470078
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -115,8 +115,55 @@ EndSplineSet
 Validated: 1
 EndChar
 
+StartChar: application
+Encoding: 3 59649 3
+Width: 1024
+VWidth: 0
+HStem: -65 65<83 946> 471 65<83 946> 553 48<148.072 195.928 246.072 293.928 342.072 389.928> 618 61<83 946>
+VStem: 18 65<0 471 536 618> 148 48<553.072 600.928> 246 48<553.072 600.928> 342 48<553.072 600.928> 946 61<0 471 536 618>
+LayerCount: 2
+Fore
+SplineSet
+952 679 m 2
+ 983 679 1007 655 1007 624 c 2
+ 1007 -10 l 2
+ 1007 -41 983 -65 952 -65 c 2
+ 76 -65 l 2
+ 42 -65 18 -41 18 -10 c 2
+ 18 624 l 2
+ 21 655 45 679 76 679 c 2
+ 952 679 l 2
+946 618 m 1
+ 83 618 l 1
+ 83 536 l 1
+ 946 536 l 1
+ 946 618 l 1
+83 0 m 1
+ 946 0 l 1
+ 946 471 l 1
+ 83 471 l 1
+ 83 317 83 141 83 0 c 1
+246 577 m 0
+ 246 590 257 601 270 601 c 0
+ 283 601 294 590 294 577 c 0
+ 294 564 283 553 270 553 c 0
+ 257 553 246 564 246 577 c 0
+148 577 m 0
+ 148 590 159 601 172 601 c 0
+ 185 601 196 590 196 577 c 0
+ 196 564 185 553 172 553 c 0
+ 159 553 148 564 148 577 c 0
+342 577 m 0
+ 342 590 353 601 366 601 c 0
+ 379 601 390 590 390 577 c 0
+ 390 564 379 553 366 553 c 0
+ 353 553 342 564 342 577 c 0
+EndSplineSet
+Validated: 1
+EndChar
+
 StartChar: more
-Encoding: 3 59650 3
+Encoding: 4 59650 4
 Width: 1024
 VWidth: 0
 Flags: W
@@ -146,7 +193,7 @@ Validated: 1
 EndChar
 
 StartChar: promote
-Encoding: 4 59651 4
+Encoding: 5 59651 5
 Width: 1028
 VWidth: 0
 Flags: W
@@ -189,7 +236,7 @@ Validated: 1
 EndChar
 
 StartChar: video_off
-Encoding: 5 59652 5
+Encoding: 6 59652 6
 Width: 1024
 VWidth: 0
 Flags: W
@@ -252,7 +299,7 @@ Validated: 1
 EndChar
 
 StartChar: user
-Encoding: 6 59653 6
+Encoding: 7 59653 7
 Width: 1024
 VWidth: 0
 HStem: -185 58<106 918> 106 65<311.625 705.46> 239 65<426.111 601.454> 737 65<426.361 598.899>
@@ -290,7 +337,7 @@ Validated: 1
 EndChar
 
 StartChar: up_arrow
-Encoding: 7 59654 7
+Encoding: 8 59654 8
 Width: 1024
 VWidth: 0
 VStem: 304 79<-180.983 669>
@@ -321,7 +368,7 @@ Validated: 1
 EndChar
 
 StartChar: undecided
-Encoding: 8 59655 8
+Encoding: 9 59655 9
 Width: 1024
 VWidth: 0
 HStem: -188 65<375.061 648.939> 85 68<234.166 792.417> 365 130<312.816 411.184 612.816 711.184> 737 65<375.061 648.939>
@@ -361,7 +408,7 @@ Validated: 1
 EndChar
 
 StartChar: time
-Encoding: 9 59656 9
+Encoding: 10 59656 10
 Width: 1024
 VWidth: 0
 HStem: -188 68<375.802 648.198> 734 68<375.802 648.198>
@@ -396,7 +443,7 @@ Validated: 1
 EndChar
 
 StartChar: sad
-Encoding: 10 59657 10
+Encoding: 11 59657 11
 Width: 1024
 VWidth: 0
 HStem: -188 65<375.061 643.905> 160 65<410.246 607.166> 365 130<309.723 407.184 606.723 704.184> 737 65<375.061 643.905>
@@ -442,7 +489,7 @@ Validated: 1
 EndChar
 
 StartChar: right_arrow
-Encoding: 11 59658 11
+Encoding: 12 59658 12
 Width: 1024
 VWidth: 0
 LayerCount: 2
@@ -465,7 +512,7 @@ Validated: 1
 EndChar
 
 StartChar: presentation
-Encoding: 12 59659 12
+Encoding: 13 59659 13
 Width: 1024
 VWidth: 0
 HStem: 68 68<82 427 601 940> 563 68<82 940> 737 65<82 940>
@@ -514,7 +561,7 @@ Validated: 1
 EndChar
 
 StartChar: listen
-Encoding: 13 59660 13
+Encoding: 14 59660 14
 Width: 1024
 VWidth: 0
 HStem: 663 57<394.862 630.698>
@@ -556,7 +603,7 @@ Validated: 1
 EndChar
 
 StartChar: left_arrow
-Encoding: 14 59661 14
+Encoding: 15 59661 15
 Width: 1024
 VWidth: 0
 LayerCount: 2
@@ -580,7 +627,7 @@ Validated: 1
 EndChar
 
 StartChar: happy
-Encoding: 15 59662 15
+Encoding: 16 59662 16
 Width: 1024
 VWidth: 0
 HStem: -188 65<375.061 648.939> 13 65<407.574 605.869> 365 130<309.386 407.754 606.386 704.754> 737 65<375.061 648.939>
@@ -627,7 +674,7 @@ Validated: 1
 EndChar
 
 StartChar: hand
-Encoding: 16 59663 16
+Encoding: 17 59663 17
 Width: 1024
 VWidth: 0
 HStem: -185 62<432.666 776.576> 331 68<155.176 201.445> 525 65<792.379 856.597> 651 63<376.137 439.17 649.94 718.84> 737 65<508.51 575.047>
@@ -698,7 +745,7 @@ Validated: 1
 EndChar
 
 StartChar: group_chat
-Encoding: 17 59664 17
+Encoding: 18 59664 18
 Width: 1024
 VWidth: 0
 Flags: W
@@ -759,7 +806,7 @@ Validated: 1
 EndChar
 
 StartChar: confused
-Encoding: 18 59665 18
+Encoding: 19 59665 19
 Width: 1024
 VWidth: 0
 HStem: -188 68<375.802 648.198> 48 61<563.646 699.2> 130 61<334.64 482.76> 365 130<309.386 407.754 606.386 704.754> 734 68<375.802 648.198>
@@ -809,7 +856,7 @@ Validated: 1
 EndChar
 
 StartChar: close
-Encoding: 19 59666 19
+Encoding: 20 59666 20
 Width: 1024
 VWidth: 0
 LayerCount: 2
@@ -845,7 +892,7 @@ Validated: 1
 EndChar
 
 StartChar: clear_status
-Encoding: 20 59667 20
+Encoding: 21 59667 21
 Width: 1024
 VWidth: 0
 HStem: -188 58<710.722 865.484> -130 68<92 550> 143 68<275.81 574.719> 170 65<710.722 866.074> 276 58<384.101 553.576> 740 65<385.731 549.173>
@@ -914,7 +961,7 @@ Validated: 1
 EndChar
 
 StartChar: circle
-Encoding: 21 59668 21
+Encoding: 22 59668 22
 Width: 1024
 VWidth: 0
 HStem: -185 61<381.254 642.661> 737 61<381.254 642.661>
@@ -937,7 +984,7 @@ Validated: 1
 EndChar
 
 StartChar: substract
-Encoding: 22 59669 22
+Encoding: 23 59669 23
 Width: 1024
 VWidth: 0
 HStem: -185 61<381.254 642.661> 276 65<269.978 758.022> 737 61<381.254 642.661>
@@ -967,7 +1014,7 @@ Validated: 1
 EndChar
 
 StartChar: circle_close
-Encoding: 23 59670 23
+Encoding: 24 59670 24
 Width: 1024
 VWidth: 0
 HStem: -185 61<381.254 642.661> 737 61<381.254 642.661>
@@ -1011,7 +1058,7 @@ Validated: 1
 EndChar
 
 StartChar: add
-Encoding: 24 59671 24
+Encoding: 25 59671 25
 Width: 1024
 VWidth: 0
 HStem: -185 61<381.254 642.661> 269 65<271.952 471 536 754.365> 737 61<381.254 642.661>
@@ -1051,7 +1098,7 @@ Validated: 1
 EndChar
 
 StartChar: check
-Encoding: 25 59672 25
+Encoding: 26 59672 26
 Width: 1024
 VWidth: 0
 HStem: -185 62<381.3 642.7> 737 62<381.3 642.7>
@@ -1087,7 +1134,7 @@ Validated: 1
 EndChar
 
 StartChar: chat
-Encoding: 26 59673 26
+Encoding: 27 59673 27
 Width: 1024
 VWidth: 0
 HStem: -21 75<414.452 664.339> 737 68<359.342 664.658>
@@ -1125,7 +1172,7 @@ Validated: 1
 EndChar
 
 StartChar: audio_on
-Encoding: 27 59674 27
+Encoding: 28 59674 28
 Width: 1024
 VWidth: 0
 HStem: 150 55<77.2913 249> 413 51<77.2913 249>
@@ -1162,7 +1209,7 @@ Validated: 1
 EndChar
 
 StartChar: audio_off
-Encoding: 28 59675 28
+Encoding: 29 59675 29
 Width: 1024
 VWidth: 0
 HStem: 150 58<75.1877 249> 413 51<75.1877 249>
@@ -1224,7 +1271,7 @@ Validated: 1
 EndChar
 
 StartChar: linte_tool
-Encoding: 29 59676 29
+Encoding: 30 59676 30
 Width: 1024
 VWidth: 0
 HStem: -188 65<279.978 358.952> -34 65<280.269 358.079> 583 65<665.321 743.615> 737 65<665.248 743.816>
@@ -1262,7 +1309,7 @@ Validated: 1
 EndChar
 
 StartChar: circle_tool
-Encoding: 30 59677 30
+Encoding: 31 59677 31
 Width: 1024
 VWidth: 0
 Flags: W
@@ -1337,7 +1384,7 @@ Validated: 1
 EndChar
 
 StartChar: triangle_tool
-Encoding: 31 59678 31
+Encoding: 32 59678 32
 Width: 1024
 VWidth: 0
 HStem: -188 65<85.1947 164.279 859.613 935.952> -113 65<246 775> -34 65<85.1308 164.412 859.896 935.479> 583 65<474.321 549.679> 737 65<474.048 549.952>
@@ -1395,7 +1442,7 @@ Validated: 1
 EndChar
 
 StartChar: rectangle_tool
-Encoding: 32 59679 32
+Encoding: 33 59679 33
 Width: 1024
 VWidth: 0
 HStem: -188 65<89.2932 169.01 854.99 934.707> -109 64<290 734> -28 65<88.9906 169.302 854.698 935.009> 577 65<88.9906 169.302 854.698 935.126> 655 65<290 734> 737 65<89.2932 169.01 854.99 934.707>
@@ -1468,7 +1515,7 @@ Validated: 1
 EndChar
 
 StartChar: text_tool
-Encoding: 33 59680 33
+Encoding: 34 59680 34
 Width: 1024
 VWidth: 0
 HStem: -185 27<300 388.482 652.269 734> 740 61<208.173 444 587 815.819>
@@ -1502,7 +1549,7 @@ Validated: 1
 EndChar
 
 StartChar: plus
-Encoding: 34 59681 34
+Encoding: 35 59681 35
 Width: 1024
 VWidth: 0
 HStem: 266 79<22.2487 468 546 996.751>
@@ -1532,7 +1579,7 @@ Validated: 1
 EndChar
 
 StartChar: fit_to_width
-Encoding: 35 59682 35
+Encoding: 36 59682 36
 Width: 1024
 VWidth: 0
 HStem: 276 61<130 894>
@@ -1575,7 +1622,7 @@ Validated: 1
 EndChar
 
 StartChar: applause
-Encoding: 36 59683 36
+Encoding: 37 59683 37
 Width: 1024
 VWidth: 0
 HStem: -161 53<391.421 560.167> 65 54<685.077 700> 195 54<681.096 696> 297 54<627.077 642> 429 51<884.133 953.258> 494 58<755.44 835.277> 538 56<471.417 500.748> 583 55<71.5471 111.244> 713 59<354.262 417.511> 721 53<493.915 545.724>
@@ -1719,7 +1766,7 @@ Validated: 1
 EndChar
 
 StartChar: undo
-Encoding: 37 59684 37
+Encoding: 38 59684 38
 Width: 1024
 VWidth: 0
 HStem: -188 65<471.547 636.759> 566 65<212 637.808>
@@ -1754,7 +1801,7 @@ Validated: 1
 EndChar
 
 StartChar: pen_tool
-Encoding: 38 59685 38
+Encoding: 39 59685 39
 Width: 1024
 VWidth: 0
 HStem: 741 60<801.893 920.307>
@@ -1797,7 +1844,7 @@ Validated: 1
 EndChar
 
 StartChar: lock
-Encoding: 39 59686 39
+Encoding: 40 59686 40
 Width: 1024
 VWidth: 0
 HStem: -185 61<160 864> 321 64<160 205 273 751 819 864> 740 61<411.986 612.014>
@@ -1835,7 +1882,7 @@ Validated: 1
 EndChar
 
 StartChar: polling
-Encoding: 40 59687 40
+Encoding: 41 59687 41
 Width: 1024
 VWidth: 0
 Flags: W
@@ -1885,7 +1932,7 @@ Validated: 1
 EndChar
 
 StartChar: desktop
-Encoding: 41 59688 41
+Encoding: 42 59688 42
 Width: 1024
 VWidth: 0
 HStem: -137 55<253.585 369 424 601 659 774.414> -10 61<75.0938 369 424 601 659 951.906> 693 58<75.0938 950.668>
@@ -1931,7 +1978,7 @@ Validated: 1
 EndChar
 
 StartChar: fit_to_screen
-Encoding: 42 59689 42
+Encoding: 43 59689 43
 Width: 1024
 VWidth: 0
 HStem: 280 61<130 401.873 624.07 894>
@@ -2020,7 +2067,7 @@ Validated: 1
 EndChar
 
 StartChar: fullscreen
-Encoding: 43 59690 43
+Encoding: 44 59690 44
 Width: 1024
 VWidth: 0
 HStem: -185 62<123 282.741 748.098 898> 740 62<126 275.68 747.131 898>
@@ -2097,7 +2144,7 @@ Validated: 1
 EndChar
 
 StartChar: settings
-Encoding: 44 59691 44
+Encoding: 45 59691 45
 Width: 1024
 VWidth: 0
 HStem: -181 55<488 529> 78 62<431.593 592.785> 471 65<432.715 596.742> 737 58<492 532>
@@ -2227,7 +2274,7 @@ Validated: 1
 EndChar
 
 StartChar: thumbs_down
-Encoding: 45 59692 45
+Encoding: 46 59692 46
 Width: 1024
 VWidth: 0
 HStem: -185 58<501.883 571.142> 164 58<236.565 485> 307 61<229.555 295.596> 450 61<221.711 281.688> 597 61<247.564 312.596> 740 61<246.494 695.621>
@@ -2296,7 +2343,7 @@ Validated: 1
 EndChar
 
 StartChar: thumbs_up
-Encoding: 46 59693 46
+Encoding: 47 59693 47
 Width: 1024
 VWidth: 0
 HStem: -191 61<328.465 771.452> -41 61<711.404 772.695> 102 61<738.404 803.737> 246 61<731.404 796.652> 392 58<543 792.396> 741 62<453.771 521.429>
@@ -2364,7 +2411,7 @@ Validated: 1
 EndChar
 
 StartChar: file
-Encoding: 47 59694 47
+Encoding: 48 59694 48
 Width: 1024
 VWidth: 0
 HStem: -188 61<194.937 828.998> 508 61<658.937 788> 740 61<194.937 597>
@@ -2403,7 +2450,7 @@ Validated: 1
 EndChar
 
 StartChar: upload
-Encoding: 48 59695 48
+Encoding: 49 59695 49
 Width: 1024
 VWidth: 0
 HStem: 89 48<138.922 388.884 635.116 897.521> 416 45<830 896.234> 546 44<227.69 341.156> 672 49<474.591 661.72>
@@ -2469,7 +2516,7 @@ Validated: 1
 EndChar
 
 StartChar: video
-Encoding: 49 59696 49
+Encoding: 50 59696 50
 Width: 1024
 VWidth: 0
 HStem: 13 62<82 642> 539 62<82 642>
@@ -2512,7 +2559,7 @@ Validated: 1
 EndChar
 
 StartChar: unmute
-Encoding: 50 59697 50
+Encoding: 51 59697 51
 Width: 1024
 VWidth: 0
 HStem: -205 68<233.926 478 546 792.706> -99 65<396.109 478 546 627.891> 58 71<434.38 589.843> 751 68<433.916 590.084>
@@ -2564,7 +2611,7 @@ Validated: 1
 EndChar
 
 StartChar: mute
-Encoding: 51 59698 51
+Encoding: 52 59698 52
 Width: 1024
 VWidth: 0
 HStem: -205 71<239.67 480 547 782.97> -99 67<401.596 480 547 628.715> 56 71<434.603 589.894> 748 71<436.733 593.354>
@@ -2635,53 +2682,6 @@ SplineSet
  477 748 438 734 413 706 c 0
  385 681 371 646 371 607 c 2
  371 272 l 2
-EndSplineSet
-Validated: 1
-EndChar
-
-StartChar: application
-Encoding: 52 59649 52
-Width: 1024
-VWidth: 0
-HStem: -65 65<83 946> 471 65<83 946> 553 48<148.072 195.928 246.072 293.928 342.072 389.928> 618 61<83 946>
-VStem: 18 65<0 471 536 618> 148 48<553.072 600.928> 246 48<553.072 600.928> 342 48<553.072 600.928> 946 61<0 471 536 618>
-LayerCount: 2
-Fore
-SplineSet
-952 679 m 2
- 983 679 1007 655 1007 624 c 2
- 1007 -10 l 2
- 1007 -41 983 -65 952 -65 c 2
- 76 -65 l 2
- 42 -65 18 -41 18 -10 c 2
- 18 624 l 2
- 21 655 45 679 76 679 c 2
- 952 679 l 2
-946 618 m 1
- 83 618 l 1
- 83 536 l 1
- 946 536 l 1
- 946 618 l 1
-83 0 m 1
- 946 0 l 1
- 946 471 l 1
- 83 471 l 1
- 83 317 83 141 83 0 c 1
-246 577 m 0
- 246 590 257 601 270 601 c 0
- 283 601 294 590 294 577 c 0
- 294 564 283 553 270 553 c 0
- 257 553 246 564 246 577 c 0
-148 577 m 0
- 148 590 159 601 172 601 c 0
- 185 601 196 590 196 577 c 0
- 196 564 185 553 172 553 c 0
- 159 553 148 564 148 577 c 0
-342 577 m 0
- 342 590 353 601 366 601 c 0
- 379 601 390 590 390 577 c 0
- 390 564 379 553 366 553 c 0
- 353 553 342 564 342 577 c 0
 EndSplineSet
 Validated: 1
 EndChar
