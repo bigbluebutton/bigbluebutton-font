@@ -178,12 +178,83 @@
   content: "\e932";
 }
 .icon-bbb-about:before {
-  content: "\e932";
+  content: "\e933";
 }
 .icon-bbb-send:before {
-  content: "\e932";
+  content: "\e934";
 }
 .icon-bbb-exit-fullscreen:before {
-  content: "\e932";
+  content: "\e935";
 }
-
+.icon-bbb-delete:before {
+  content: "\e936";
+}
+.icon-bbb-unmute-filled:before {
+  content: "\e937";
+}
+.icon-bbb-mute-filled:before {
+  content: "\e938";
+}
+.icon-bbb-listen_filled	:before {
+  content: "\e939";
+}
+.icon-bbb-template-upload:before {
+  content: "\e93a";
+}
+.icon-bbb-template-download:before {
+  content: "\e93b";
+}
+.icon-bbb-save-notes:before {
+  content: "\e93c";
+}
+.icon-bbb-multi-whiteboard:before {
+  content: "\e93d";
+}
+.icon-bbb-whiteboard:before {
+  content: "\e93e";
+}
+.icon-bbb-rooms:before {
+  content: "\e93f";
+}
+.icon-bbb-unlock:before {
+  content: "\e940";
+}
+.icon-bbb-record:before {
+  content: "\e941";
+}
+.icon-bbb-network:before {
+  content: "\e942";
+}
+.icon-bbb-redo:before {
+  content: "\e943";
+}
+.icon-bbb-thumbs-down-filled:before {
+  content: "\e944";
+}
+.icon-bbb-thumbs-up-filled:before {
+  content: "\e945";
+}
+.icon-bbb-checkmark:before {
+  content: "\e946";
+}
+.icon-bbb-speak-louder:before {
+  content: "\e947";
+}
+.icon-bbb-help:before {
+  content: "\e940";
+}
+.icon-bbb-unlock:before {
+  content: "\e948";
+}
+.icon-bbb-refresh:before {
+  content: "\e949";
+}
+.icon-bbb-copy:before {
+  content: "\e94a";
+}
+.icon-bbb-shortcuts:before {
+  content: "\e94b";
+}
+.icon-bbb-warning:before {
+  content: "\e94c";
+}
