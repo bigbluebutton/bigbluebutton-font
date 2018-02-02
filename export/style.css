@@ -258,3 +258,15 @@
 .icon-bbb-warning:before {
   content: "\e94c";
 }
+.icon-bbb-transfer_audio:before {
+  content: "\e94d";
+}
+.icon-bbb-room:before {
+  content: "\e94e";
+}
+.icon-bbb-new_file:before {
+  content: "\e94f";
+}
+.icon-bbb-pointer:before {
+  content: "\e950";
+}

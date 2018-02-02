@@ -75,11 +75,11 @@ var glyphs = {
 	'refresh': 'e949',
 	'copy': 'e94a',
 	'shortcuts': 'e94b',
-	'warning': 'e94c'
-  'transfer_audio': 'e94d'
-  'room': 'e94e'
-  'new_file': 'e94f'
-  'pointer': 'e950'
+	'warning': 'e94c',
+	'transfer_audio': 'e94d',
+	'room': 'e94e',
+	'new_file': 'e94f',
+	'pointer': 'e950'
 };
 
 $(document).ready(
