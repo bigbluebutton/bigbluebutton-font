@@ -79,7 +79,8 @@ var glyphs = {
 	'transfer_audio': 'e94d',
 	'room': 'e94e',
 	'new_file': 'e94f',
-	'pointer': 'e950'
+	'pointer': 'e950',
+	'star': 'e951'
 };
 
 $(document).ready(
