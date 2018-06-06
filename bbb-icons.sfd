@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1482757104
-ModificationTime: 1524741452
+ModificationTime: 1528287014
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -36,6 +36,7 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
+OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
 Encoding: Custom
@@ -47,7 +48,7 @@ FitToEm: 0
 WinInfo: 0 20 8
 BeginPrivate: 0
 EndPrivate
-BeginChars: 84 84
+BeginChars: 85 85
 
 StartChar: .notdef
 Encoding: 0 0 0
@@ -4209,6 +4210,60 @@ VWidth: 0
 LayerCount: 2
 Fore
 SplineSet
+243 -164 m 4
+ 210 -163 183 -136 183 -103 c 4
+ 183 -101 184 -96 184 -93 c 6
+ 230 175 l 5
+ 34 365 l 6
+ 24 375 16 394 16 408 c 4
+ 16 437 39 464 68 467 c 6
+ 337 506 l 5
+ 458 751 l 6
+ 467 769 491 785 512 785 c 5
+ 533 785 557 770 566 751 c 6
+ 686 507 l 5
+ 956 467 l 6
+ 985 464 1008 437 1008 408 c 4
+ 1008 394 1000 374 990 365 c 6
+ 795 175 l 5
+ 841 -94 l 6
+ 841 -96 842 -101 842 -104 c 4
+ 842 -137 815 -164 782 -164 c 4
+ 774 -164 761 -161 754 -157 c 6
+ 515 -31 l 5
+ 274 -157 l 6
+ 266 -162 253 -164 243 -164 c 4
+540 22 m 6
+ 781 -104 l 5
+ 736 164 l 6
+ 735 167 735 172 735 175 c 4
+ 735 189 743 208 753 218 c 6
+ 948 407 l 5
+ 678 448 l 6
+ 661 450 640 466 633 482 c 6
+ 512 724 l 5
+ 391 480 l 6
+ 384 464 363 449 346 446 c 6
+ 77 409 l 5
+ 271 219 l 6
+ 281 209 289 190 289 176 c 4
+ 289 173 289 169 288 166 c 6
+ 242 -103 l 5
+ 484 23 l 5
+ 492 26 502 28 512 28 c 4
+ 522 28 532 26 540 22 c 6
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: star_filled
+Encoding: 84 59730 84
+Width: 1024
+VWidth: 0
+Flags: HWO
+LayerCount: 2
+Fore
+SplineSet
 243 -164 m 0
  210 -163 183 -136 183 -103 c 0
  183 -101 184 -96 184 -93 c 2
@@ -4232,27 +4287,7 @@ SplineSet
  515 -31 l 1
  274 -157 l 2
  266 -162 253 -164 243 -164 c 0
-540 22 m 2
- 781 -104 l 1
- 736 164 l 2
- 735 167 735 172 735 175 c 0
- 735 189 743 208 753 218 c 2
- 948 407 l 1
- 678 448 l 2
- 661 450 640 466 633 482 c 2
- 512 724 l 1
- 391 480 l 2
- 384 464 363 449 346 446 c 2
- 77 409 l 1
- 271 219 l 2
- 281 209 289 190 289 176 c 0
- 289 173 289 169 288 166 c 2
- 242 -103 l 1
- 484 23 l 1
- 492 26 502 28 512 28 c 0
- 522 28 532 26 540 22 c 2
 EndSplineSet
-Validated: 1
 EndChar
 EndChars
 EndSplineFont
