@@ -273,3 +273,6 @@
 .icon-bbb-star:before {
   content: "\e951";
 }
+.icon-bbb-star_filled:before {
+  content: "\e952";
+}

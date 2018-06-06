@@ -80,7 +80,8 @@ var glyphs = {
 	'room': 'e94e',
 	'new_file': 'e94f',
 	'pointer': 'e950',
-	'star': 'e951'
+	'star': 'e951',
+	'star_filled': 'e952'
 };
 
 $(document).ready(
