@@ -5,8 +5,8 @@
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20170731 at Sun Aug 05 09:23:33 2018
- By BigBlueButton Inc.
+Created by FontForge 20161003 at Thu Aug 16 17:00:35 2018
+ By Tyler Copeland
 Copyright (c) 2016-2017, BigBlueButton Inc.
 </metadata>
 <defs>
@@ -22,7 +22,7 @@ Copyright (c) 2016-2017, BigBlueButton Inc.
     bbox="-3 -208 1191 826"
     underline-thickness="51"
     underline-position="-102"
-    unicode-range="U+0020-E953"
+    unicode-range="U+0020-E954"
   />
 <missing-glyph horiz-adv-x="1048" 
  />
@@ -336,5 +336,8 @@ c0 -17 -11 -39 -25 -49c-9 -6 -24 -11 -35 -11c-8 0 -21 3 -28 7l-241 127l-241 -127
 d="M928 707c4 -4 7 -12 7 -18s-4 -14 -8 -18l-29 -28c13 -12 23 -34 24 -51v-494c-1 -35 -31 -65 -67 -66h-223v-59h76c13 0 24 -11 24 -24s-11 -24 -24 -24h-392c-13 0 -24 11 -24 24s11 24 24 24h78v60h-128l-131 -126c-4 -4 -12 -8 -18 -8s-14 4 -18 8s-8 12 -8 18
 s4 14 8 18l92 89h-20c-37 0 -68 30 -69 66v494c2 36 32 66 69 66h669l52 49c4 4 12 8 18 8s14 -4 18 -8zM171 79h68l552 532h-620c-11 0 -19 -9 -19 -19v-494c0 -10 8 -19 19 -19zM586 -28l-1 60h-146v-60h147zM874 592c0 7 -5 14 -11 17l-551 -530h543c11 0 19 9 19 19v494
 z" />
+    <glyph glyph-name="minus" unicode="&#xe954;" 
+d="M933.547 352.056c24.8711 0 45.0557 -20.1846 45.0557 -45.0557s-20.1846 -45.0557 -45.0557 -45.0557h-843.094c-10.293 0.0224609 -24.668 5.83301 -32.085 12.9707c-7.1377 7.41699 -12.9482 21.791 -12.9707 32.085c0 24.8711 20.1846 45.0557 45.0557 45.0557
+h843.094z" />
   </font>
 </defs></svg>
