@@ -82,7 +82,8 @@ var glyphs = {
 	'pointer': 'e950',
 	'star': 'e951',
 	'star_filled': 'e952',
-	'desktop_off': 'e953'
+	'desktop_off': 'e953',
+	'minus': 'e954'
 };
 
 $(document).ready(
