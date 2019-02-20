@@ -276,3 +276,12 @@
 .icon-bbb-star_filled:before {
   content: "\e952";
 }
+.icon-bbb-desktop_off:before {
+  content: "\e953";
+}
+.icon-bbb-minus:before {
+  content: "\e954";
+}
+.icon-bbb-download_off:before {
+  content: "\e955";
+}
