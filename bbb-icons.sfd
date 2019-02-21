@@ -45,11 +45,7 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-<<<<<<< HEAD
-WinInfo: 14 14 6
-=======
-WinInfo: 0 20 8
->>>>>>> ce9b0a40828d5224590623ad80dd0bb1bfafaa3f
+WinInfo: 0 17 6
 BeginPrivate: 0
 EndPrivate
 BeginChars: 89 88
@@ -3158,7 +3154,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: save_notes
+StartChar: download
 Encoding: 62 59708 62
 Width: 1024
 VWidth: 0
