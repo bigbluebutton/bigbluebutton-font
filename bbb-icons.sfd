@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1482757104
-ModificationTime: 1550635424
+ModificationTime: 1550783384
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -46,7 +46,7 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 16 7
+WinInfo: 14 14 6
 BeginPrivate: 0
 EndPrivate
 BeginChars: 89 88
@@ -3211,7 +3211,6 @@ SplineSet
  705 176 701 167 696 162 c 2
  512 -22 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: multi_whiteboard
