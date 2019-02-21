@@ -5,8 +5,8 @@
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20170731 at Wed Feb 20 17:04:50 2019
- By BigBlueButton Inc.
+Created by FontForge 20161003 at Thu Feb 21 16:09:44 2019
+ By Tyler Copeland
 Copyright (c) 2016-2017, BigBlueButton Inc.
 </metadata>
 <defs>
@@ -253,7 +253,7 @@ c0 -22 -18 -40 -39 -41h-946c-22 1 -39 19 -39 42s17 42 39 43z" />
     <glyph glyph-name="template_download" unicode="&#xe93b;" 
 d="M512 77l-258 257c-7 7 -13 21 -13 31c0 23 20 42 43 42c10 0 23 -5 30 -12l155 -156v454c0 24 19 43 43 43s43 -19 43 -43v-454l155 155c7 6 20 12 30 12s23 -6 30 -12c7 -7 13 -21 13 -31c0 -9 -6 -23 -13 -30zM985 -122h-946c-23 0 -42 19 -42 43c0 23 19 42 42 42h946
 c23 0 42 -19 42 -42c0 -24 -19 -43 -42 -43z" />
-    <glyph glyph-name="save_notes" unicode="&#xe93c;" 
+    <glyph glyph-name="download" unicode="&#xe93c;" 
 d="M879 585c14 -13 25 -40 25 -60v-645c0 -47 -38 -85 -85 -85h-614c-48 0 -85 38 -85 86v853c0 47 38 85 85 85h440zM663 713v-110c0 -13 10 -23 23 -23h112zM819 -143c13 0 23 10 23 23v636h-156c-47 0 -85 38 -85 85v156h-396c-14 0 -23 -10 -23 -24v-853
 c0 -13 10 -23 23 -23h614zM512 -22l-184 183c-5 5 -9 15 -9 22c0 17 14 30 31 30c7 0 16 -4 21 -8l111 -111v323c0 17 13 31 30 31s30 -14 30 -31v-323l111 111c5 4 14 8 21 8c17 0 31 -13 31 -30c0 -7 -4 -16 -9 -21z" />
     <glyph glyph-name="multi_whiteboard" unicode="&#xe93d;" 
