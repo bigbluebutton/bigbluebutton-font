@@ -85,7 +85,8 @@ var glyphs = {
 	'desktop_off': 'e953',
 	'minus': 'e954',
 	'download_off': 'e955',
-	'popout_window': 'e956'
+	'popout_window': 'e956',
+	'closed_caption': 'e957'
 };
 
 $(document).ready(
