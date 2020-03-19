@@ -1,9 +1,9 @@
-SplineFontDB: 3.0
+SplineFontDB: 3.2
 FontName: BigBlueButton
 FullName: BigBlueButton
 FamilyName: BigBlueButton
 Weight: Regular
-Copyright: Copyright (c) 2016-2017, BigBlueButton Inc.
+Copyright: Copyright (c) 2016-2020, BigBlueButton Inc.
 UComments: "2016-12-26: Created with FontForge (http://fontforge.org)"
 Version: 001.000
 ItalicAngle: 0
@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1482757104
-ModificationTime: 1560172189
+ModificationTime: 1584616152
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -37,6 +37,7 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
+OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
 Encoding: Custom
@@ -45,10 +46,10 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 20 8
+WinInfo: 0 25 10
 BeginPrivate: 0
 EndPrivate
-BeginChars: 90 90
+BeginChars: 91 91
 
 StartChar: .notdef
 Encoding: 0 0 0
@@ -4594,6 +4595,67 @@ SplineSet
  916 480 848 556 725 556 c 0
  612 556 524 455 524 292 c 0
  524 128 605 26 738 26 c 0
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: alert
+Encoding: 90 59736 90
+Width: 1024
+VWidth: 0
+HStem: -206 111<473.956 550.044> -58 72<142 882> 160 74<478.336 545.664> 673 71<392.141 475 549 632.535>
+VStem: 139 73<183.266 507.342> 475 74<163.336 230.664 357.984 522.345 742.151 815.152> 812 73<181.429 506.774>
+CounterMasks: 1 0e
+LayerCount: 3
+Fore
+SplineSet
+623 -95 m 2
+ 623 -157 573 -206 512 -206 c 0
+ 451 -206 401 -157 401 -95 c 2
+ 623 -95 l 2
+549 782 m 2
+ 549 744 l 1
+ 734 728 881 592 885 423 c 1
+ 885 360 l 2
+ 885 290 903 179 925 113 c 1
+ 952 34 l 2
+ 954 28 956 17 956 10 c 0
+ 956 -27 926 -58 888 -58 c 2
+ 137 -58 l 2
+ 99 -58 68 -27 68 10 c 2
+ 68 12 l 2
+ 68 18 70 28 72 34 c 1
+ 99 114 l 2
+ 121 180 139 291 139 362 c 1
+ 139 424 l 2
+ 143 592 289 728 475 744 c 1
+ 475 782 l 18
+ 475 806 494 818 512 818 c 0
+ 530 818 549 806 549 782 c 2
+512 673 m 2
+ 506 673 l 2
+ 344 670 215 558 212 422 c 1
+ 212 360 l 2
+ 211 290 192 168 169 94 c 1
+ 142 14 l 1
+ 882 14 l 1
+ 855 94 l 2
+ 831 165 812 285 812 360 c 2
+ 812 421 l 1
+ 809 560 675 673 512 673 c 2
+549 197 m 0
+ 549 177 532 160 512 160 c 0
+ 492 160 475 177 475 197 c 0
+ 475 218 491 234 512 234 c 0
+ 532 234 549 217 549 197 c 0
+549 490 m 2
+ 549 444 l 1
+ 535 276 l 1
+ 489 276 l 1
+ 475 444 l 1
+ 475 490 l 2
+ 475 514 494 525 512 525 c 0
+ 530 525 549 514 549 490 c 2
 EndSplineSet
 Validated: 1
 EndChar
