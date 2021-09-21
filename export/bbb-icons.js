@@ -92,6 +92,7 @@ var glyphs = {
   'volume_leve_1': 'e95a',
   'volume_level_2': 'e95b',
   'volume_level_3': 'e95c',
+  'no_audio': 'e95d'
 };
 
 $(document).ready(
