@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1482757104
-ModificationTime: 1628170271
+ModificationTime: 1632230394
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -45,10 +45,10 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 44 11 5
+WinInfo: 0 26 10
 BeginPrivate: 0
 EndPrivate
-BeginChars: 95 95
+BeginChars: 96 96
 
 StartChar: .notdef
 Encoding: 0 0 0
@@ -4885,6 +4885,57 @@ SplineSet
  242 403 l 2
  238 399 231 396 225 396 c 2
  90 396 l 2
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: no_audio
+Encoding: 95 59741 95
+Width: 1024
+Flags: W
+HStem: 136 59<185.921 289> 415 63<183.605 379>
+VStem: 116 63<203.539 410.154> 701 63<-86 444 588 697>
+LayerCount: 3
+Fore
+SplineSet
+893 699 m 0
+ 910 699 924 686 924 669 c 0
+ 924 661 921 654 915 648 c 2
+ 764 504 l 1
+ 764 -159 l 2
+ 764 -175 751 -189 732 -189 c 0
+ 724 -189 716 -185 710 -180 c 2
+ 379 136 l 1
+ 153 -77 l 2
+ 147 -82 140 -85 131 -86 c 0
+ 114 -86 100 -72 100 -55 c 0
+ 100 -47 103 -40 109 -34 c 2
+ 289 136 l 1
+ 266 136 242 136 219 136 c 0
+ 162 136 116 182 116 239 c 2
+ 116 375 l 0
+ 116 432 162 478 219 478 c 0
+ 272 478 325 478 379 478 c 1
+ 710 793 l 2
+ 716 799 724 802 732 802 c 0
+ 751 802 764 788 764 772 c 2
+ 764 588 l 1
+ 871 690 l 2
+ 877 695 884 699 893 699 c 0
+353 195 m 1
+ 701 526 l 1
+ 701 697 l 1
+ 414 424 l 2
+ 408 419 400 415 392 415 c 2
+ 220 415 l 2
+ 198 415 179 397 179 375 c 1
+ 179 238 l 2
+ 179 216 198 197 220 197 c 0
+ 265 197 309 195 353 195 c 1
+701 -86 m 1
+ 701 444 l 1
+ 423 179 l 1
+ 701 -86 l 1
 EndSplineSet
 Validated: 1
 EndChar
