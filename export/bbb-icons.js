@@ -88,11 +88,18 @@ var glyphs = {
 	'popout_window': 'e956',
   'closed_caption': 'e957',
   'alert': 'e958',
-  'volume_off': 'e959',
-  'volume_leve_1': 'e95a',
-  'volume_level_2': 'e95b',
-  'volume_level_3': 'e95c',
-  'no_audio': 'e95d'
+  'pal_rejection': 'e959',
+  'no_palm_rejection': 'e95a',
+  'device_list_selector': 'e95b',
+  'presentation_off': 'e95c',
+  'external_video': 'e95d'
+  'external_video_off': 'e95d'
+  'volume_off': 'e95f',
+  'volume_leve_1': 'e960',
+  'volume_level_2': 'e961',
+  'volume_level_3': 'e962',
+  'no_audio': 'e963'
+
 };
 
 $(document).ready(
