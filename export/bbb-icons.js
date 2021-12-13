@@ -99,7 +99,8 @@ var glyphs = {
   'volume_level_2': 'e961',
   'volume_level_3': 'e962',
   'no_audio': 'e963'
-
+  'pin': 'e964',
+  'unpin': 'e965'
 };
 
 $(document).ready(
