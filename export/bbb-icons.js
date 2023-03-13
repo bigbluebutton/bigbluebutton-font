@@ -101,7 +101,9 @@ var glyphs = {
     'no_audio': 'e963',
     'pin': 'e964',
     'unpin': 'e965',
-    'closed_caption_stop': 'e966'
+    'closed_caption_stop': 'e966',
+    'link': 'e967'
+
 };
 
 $(document).ready(
