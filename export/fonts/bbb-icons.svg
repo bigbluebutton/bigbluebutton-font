@@ -5,9 +5,9 @@
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20230101 at Mon Mar 13 13:35:17 2023
+Created by FontForge 20230101 at Tue Mar 21 21:29:13 2023
  By BigBlueButton Inc.
-Copyright (c) 2016-2022, BigBlueButton Inc.
+Copyright (c) 2016-2023, BigBlueButton Inc.
 </metadata>
 <defs>
 <font id="BigBlueButton" horiz-adv-x="1024" >
@@ -22,7 +22,7 @@ Copyright (c) 2016-2022, BigBlueButton Inc.
     bbox="-3 -208 1191 840"
     underline-thickness="51"
     underline-position="-102"
-    unicode-range="U+0020-E967"
+    unicode-range="U+0020-E968"
   />
 <missing-glyph horiz-adv-x="1048" 
  />
@@ -434,5 +434,7 @@ d="M307 -103c-122 0 -202 101 -202 207c0 50 18 102 59 145l68 68c5 5 13 7 20 7c8 0
 c0 54 -27 106 -71 127c-19 9 -28 21 -28 32c0 4 1 7 3 11c4 8 11 14 23 14c8 0 19 -3 32 -9c62 -29 99 -99 99 -172c0 -53 -19 -107 -62 -150l-174 -175c-38 -37 -93 -58 -144 -58zM461 150c-14 0 -130 61 -130 190c0 52 21 104 62 141l174 174c39 40 91 59 144 59
 c52 0 104 -19 144 -58c40 -40 60 -92 60 -145s-19 -105 -58 -146l-69 -68c-5 -5 -12 -7 -20 -7s-15 2 -20 7c-6 5 -8 13 -8 20c0 8 2 15 8 21l68 68c29 29 44 66 44 104s-15 75 -44 104s-66 44 -104 44s-75 -15 -104 -44l-175 -174c-27 -27 -44 -65 -44 -104
 c0 -77 60 -117 79 -126c16 -7 24 -20 24 -33c0 -3 0 -6 -1 -9c-3 -15 -13 -18 -30 -18z" />
+    <glyph glyph-name="manage_layout" unicode="&#xe968;" 
+d="M554 350v341h342v-341h-342zM128 350v341h342v-341h-342zM128 -77v341h342v-341h-342zM768 264v-128h128v-85h-128v-128h-86v128h-128v85h128v128h86z" />
   </font>
 </defs></svg>

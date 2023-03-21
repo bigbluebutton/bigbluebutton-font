@@ -102,7 +102,8 @@ var glyphs = {
     'pin': 'e964',
     'unpin': 'e965',
     'closed_caption_stop': 'e966',
-    'link': 'e967'
+    'link': 'e967',
+    'manage_layout': 'e968'
 
 };
 
