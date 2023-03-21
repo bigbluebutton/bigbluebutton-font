@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1482757104
-ModificationTime: 1678710917
+ModificationTime: 1679410856
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -52,11 +52,12 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 39 14
+WinInfo: 28 14 6
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 536576 268288 178858 0 1048576 178858 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 106 106
+AnchorClass2: """" 
+BeginChars: 107 107
 
 StartChar: .notdef
 Encoding: 0 0 0
@@ -5773,6 +5774,44 @@ SplineSet
  488 153 478 150 461 150 c 0
 EndSplineSet
 Validated: 1
+EndChar
+
+StartChar: manage_layout
+Encoding: 106 59752 106
+Width: 1024
+Flags: HO
+LayerCount: 3
+Fore
+SplineSet
+554 350 m 1
+ 554 691 l 1
+ 896 691 l 1
+ 896 350 l 1
+ 554 350 l 1
+128 350 m 1
+ 128 691 l 1
+ 470 691 l 1
+ 470 350 l 1
+ 128 350 l 1
+128 -77 m 1
+ 128 264 l 1
+ 470 264 l 1
+ 470 -77 l 1
+ 128 -77 l 1
+768 264 m 1
+ 768 136 l 1
+ 896 136 l 1
+ 896 51 l 1
+ 768 51 l 1
+ 768 -77 l 1
+ 682 -77 l 1
+ 682 51 l 1
+ 554 51 l 1
+ 554 136 l 1
+ 682 136 l 1
+ 682 264 l 1
+ 768 264 l 1
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
