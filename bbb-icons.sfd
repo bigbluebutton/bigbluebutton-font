@@ -3,7 +3,7 @@ FontName: BigBlueButton
 FullName: BigBlueButton
 FamilyName: BigBlueButton
 Weight: Regular
-Copyright: Copyright (c) 2016-2022, BigBlueButton Inc.
+Copyright: Copyright (c) 2016-2023, BigBlueButton Inc.
 UComments: "2016-12-26: Created with FontForge (http://fontforge.org)"
 Version: 001.000
 ItalicAngle: 0
@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1482757104
-ModificationTime: 1679410856
+ModificationTime: 1679430553
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -52,11 +52,10 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 28 14 6
+WinInfo: 0 39 14
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 536576 268288 178858 0 1048576 178858 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-AnchorClass2: """" 
 BeginChars: 107 107
 
 StartChar: .notdef
@@ -5779,39 +5778,41 @@ EndChar
 StartChar: manage_layout
 Encoding: 106 59752 106
 Width: 1024
-Flags: HO
+HStem: -77 341<128 470 682 768> 51 85<554 682 768 896> 350 341<128 470 554 896>
+VStem: 128 342<-77 264 350 691> 554 342<51 136 350 691> 682 86<-77 51 136 264>
 LayerCount: 3
 Fore
 SplineSet
-554 350 m 1
+554 350 m 1x38
  554 691 l 1
  896 691 l 1
  896 350 l 1
- 554 350 l 1
+ 554 350 l 1x38
 128 350 m 1
  128 691 l 1
  470 691 l 1
  470 350 l 1
  128 350 l 1
-128 -77 m 1
+128 -77 m 1xb0
  128 264 l 1
  470 264 l 1
  470 -77 l 1
- 128 -77 l 1
-768 264 m 1
- 768 136 l 1
+ 128 -77 l 1xb0
+768 264 m 1xb4
+ 768 136 l 1x74
  896 136 l 1
- 896 51 l 1
- 768 51 l 1
+ 896 51 l 1x78
+ 768 51 l 1x74
  768 -77 l 1
- 682 -77 l 1
- 682 51 l 1
+ 682 -77 l 1xb4
+ 682 51 l 1x74
  554 51 l 1
- 554 136 l 1
- 682 136 l 1
+ 554 136 l 1x78
+ 682 136 l 1x74
  682 264 l 1
- 768 264 l 1
+ 768 264 l 1xb4
 EndSplineSet
+Validated: 1
 EndChar
 EndChars
 EndSplineFont
